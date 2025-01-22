@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavignechappazflorian&label=Profile%20views&color=0e75b6&style=flat" alt="lavignechappazflorian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavignechappazflorian" alt="lavignechappazflorian" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, C++**
 
 - 👨‍💻 All informations about me [florian-lvg-chp.netlify.app](florian-lvg-chp.netlify.app)
@@ -14,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/florian lavigne chappaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florian lavigne chappaz" height="30" width="40" /></a>
+<a href="https://x.com/WaitAim_" target="blank"><img align="center" src="https://images.frandroid.com/wp-content/uploads/2023/07/x-logo-twitter-elon-musk.jpg" alt="florian lavigne chappaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
