@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, C#, C**
 
-- 👨‍💻 All informations about me [florian-lvg-chp.netlify.app](florian-lvg-chp.netlify.app)
+- 👨‍💻 All informations about me [florian-lvg-chp.netlify.app](https://florian-lvg-chp.netlify.app)
 
 - 📫 How to reach me **florian.lavigne.chappaz@gmail.com**
 
