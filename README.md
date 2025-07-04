@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavignechappazflorian&label=Profile%20views&color=0e75b6&style=flat" alt="lavignechappazflorian" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, C#, C**
+- 🌱 I’m currently learning **IA**
 
 - 👨‍💻 All informations about me [florian-lvgchp.netlify.app](https://florian-lvgchp.netlify.app)
 
